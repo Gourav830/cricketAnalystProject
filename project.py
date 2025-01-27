@@ -42,5 +42,5 @@ for index, row in df_match.iterrows():
 
     match_ids_dist[key1] = row['match_id']
     match_ids_dist[key2] = row['match_id']
-# print(match_ids_dist)
+print(match_ids_dist)
     
